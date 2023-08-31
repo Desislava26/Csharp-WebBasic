@@ -3,9 +3,9 @@ This is my homework from SoftUni courses.
 
 -- The repository will include exercises with:
 
-Web Server - HTTP Protocol
-Web Server - Asynchronous Processing
-Web Server - State Management
-MVC Introduction
-MVC Advanced - View Engine
-MVC Advanced - IoC and Data Binding
+1. Web Server - HTTP Protocol
+2. Web Server - Asynchronous Processing
+3. Web Server - State Management
+4. MVC Introduction
+5. MVC Advanced - View Engine
+6. MVC Advanced - IoC and Data Binding
